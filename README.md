@@ -9,4 +9,4 @@ this is a link
 
 ### study platform
 
-- .[1.github]
+- 1.github
